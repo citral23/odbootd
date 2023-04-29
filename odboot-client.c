@@ -88,7 +88,7 @@ static const struct board gcw0_boards[] = {
 static const struct board rs90_boards[] = {
 	{ "rs90", "v21", "Anbernic RS-90 v2.1" },
 	{ "rs90", "v30", "Anbernic RS-90 v3.0" },
-	{ "rg99", "v21", "Anbernic RG-99" },
+	{ "rg99", "v30", "Anbernic RG-99" },
 };
 
 static const struct board lepus_boards[] = {
